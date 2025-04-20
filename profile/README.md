@@ -1,9 +1,16 @@
 # Kawaii Chip 团队简介
 
+<!-- language switcher -->
+<p align="top-left">
+  简体中文 |
+  <a href="README.en_US.md">English</a>
+</p>
+
 <!-- logo -->
 <p align="center">
   <img src="../assets/logo.png" alt="logo" width="300" />
 </p>
+
 
 ## 介绍
 
