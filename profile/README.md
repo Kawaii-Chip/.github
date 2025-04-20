@@ -5,7 +5,7 @@
   <img
     src="../assets/logo.png"
     alt="logo"
-    style="max-width:300px; width:100%; height:auto;"
+    width="300"
   />
 </p>
 
