@@ -2,11 +2,7 @@
 
 <!-- logo -->
 <p align="center">
-  <img
-    src="../assets/logo.png"
-    alt="logo"
-    width="300"
-  />
+  <img src="../assets/logo.png" alt="logo" width="300" />
 </p>
 
 ## 介绍
