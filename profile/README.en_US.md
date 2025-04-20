@@ -1,5 +1,11 @@
 # Kawaii Chip Team Introduction
 
+<!-- language switcher -->
+<p align="top-left">
+  <a href="README.md">简体中文</a> | 
+  English
+</p>
+
 <!-- logo -->
 <p align="center">
   <img src="../assets/logo.png" alt="logo" width="300" />

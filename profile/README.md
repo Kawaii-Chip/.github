@@ -2,7 +2,7 @@
 
 <!-- language switcher -->
 <p align="top-left">
-  简体中文 |
+  简体中文 | 
   <a href="README.en_US.md">English</a>
 </p>
 
