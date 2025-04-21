@@ -15,6 +15,8 @@
 
 本组织专注于为[全国大学生嵌入式芯片与系统设计竞赛（SocChina）](http://www.socchina.net/)参赛队伍“Kawaii Chip”提供支持与服务，助力队伍在赛道上取得优异成绩。
 
+组织官网：https://kawaii-chip.github.io/
+
 ## 赛道
 
 - 待补充

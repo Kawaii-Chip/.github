@@ -15,6 +15,8 @@
 
 This organization focuses on providing support and services to the "Kawaii Chip" team participating in the [National College Student Embedded Chip and System Design Competition (SocChina)](http://www.socchina.net/), helping the team achieve excellent results in the competition.
 
+Organization official website: https://kawaii-chip.github.io/
+
 ## Competition Tracks
 
 - TBD
